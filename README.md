@@ -1,4 +1,4 @@
-# Relic Recovery Code of SEP Nerd Herd
+# SEP Nerd Herd Relic Recovery Code
 ![](https://forthebadge.com/images/badges/made-with-java.svg)
 ![](https://forthebadge.com/images/badges/built-for-android.svg)
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
